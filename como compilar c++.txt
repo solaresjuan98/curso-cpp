@@ -1,0 +1,1 @@
+g++ -o (nombre que tendrá el ejecutable) (filename.cpp)
